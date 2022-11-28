@@ -1,6 +1,10 @@
 ### Aoba 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathesukkj)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/mathesukkj">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathesukkj&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathesukkj&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
 <!--
 **mathesukkj/mathesukkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
