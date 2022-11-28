@@ -9,7 +9,7 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=mathesukkj&color=7F3ACE&line=ffff&point=7F3ACE&title_color=7F3ACE&area_color=7F3ACE&hide_border=true&area=true&bg_color=0d1117)
   
- <div style="display: inline_block"><br>
+ <div align="center"><br>
   <img align="center" alt="mathesu-Js" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mathesu-java" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="mathesu-nodejs"/>
@@ -20,15 +20,28 @@
   <img align="center" alt="mathesu-Csharp" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 </div>
   
-  ##
-  
+ ##
+ 
+<img align="right" src="./analysis.gif" width="370px" alt="anime chilling">
+<ul align="left">
+    <li>💞 Sou apaixonado por Tecnologia, Música e Games.</li>
+    <li>💻 Faço cursos na <a href="https://udemy.com/" target="_blank">Udemy</a> e na <a href="https://www.dio.me" target="_blank">DIO<a/>, e faço bootcamps na <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> e <a href="https://alura.com" target="_blank">Alura</a>.</li>
+    <li>🚀 Tenho afinidade com o Front-end, mas pretendo estudar o Back-end, em busca de ser Fullstack.</li>
+    <li>⚡ Atualmente estou estudando: <b>Java</b>, <b>Python</b> e <b>ReactJs</b>.</li>
+</ul>
+
+##
+
 <div> 
   <a href="https://instagram.com/mathesukkkkj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/maathesukkkkj" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-kemuel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discordapp.com/users/273800772020338689" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kemuel.g7363@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
+   <a href="https://tracker.gg/valorant/profile/riot/scream%20do%20loona%23cdka1/overview" target="_blank"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank"></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" target="_blank"></a> 
+  <a href="https://steamcommunity.com/id/mathesukkj/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
+  <a href="https://open.spotify.com/user/obbrn3lv07a6jusj2i2y11cyp?si=948602b1396e4a5d" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
