@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathesukkj&layout=compact&hide_border=true&title_color=7F3ACE&text_color=ffff&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=mathesukkj&color=7F3ACE&line=ffff&point=7F3ACE&title_color=7F3ACE&area_color=7F3ACE&hide_border=true&area=true&bg_color=0d1117)
+<!--![Contribution](https://activity-graph.herokuapp.com/graph?username=mathesukkj&color=7F3ACE&line=ffff&point=7F3ACE&title_color=7F3ACE&area_color=7F3ACE&hide_border=true&area=true&bg_color=0d1117)-->
   
  <div align="center"><br>
   <img align="center" alt="mathesu-Js" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,7 +22,6 @@
   
  ##
  
-<img align="right" src="./analysis.gif" width="370px" alt="anime chilling">
 <ul align="left">
     <li>💞 Sou apaixonado por Tecnologia, Música e Games.</li>
     <li>💻 Faço cursos na <a href="https://udemy.com/" target="_blank">Udemy</a> e na <a href="https://www.dio.me" target="_blank">DIO<a/>, e faço bootcamps na <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> e <a href="https://alura.com" target="_blank">Alura</a>.</li>
