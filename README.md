@@ -24,9 +24,10 @@
  
 <ul align="left">
     <li>💞 Sou apaixonado por Tecnologia, Música e Games.</li>
-    <li>💻 Faço cursos na <a href="https://udemy.com/" target="_blank">Udemy</a> e na <a href="https://www.dio.me" target="_blank">DIO<a/>, e faço bootcamps na <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> e <a href="https://alura.com" target="_blank">Alura</a>.</li>
-    <li>🚀 Tenho afinidade com o Front-end, mas pretendo estudar o Back-end, em busca de ser Fullstack.</li>
-    <li>⚡ Atualmente estou estudando: <b>Java</b>, <b>Python</b> e <b>ReactJs</b>.</li>
+    <li>💻 Faço cursos majoritariamente na <a href="https://udemy.com/" target="_blank">Udemy</a>, sempre em busca de aprender mais.</li>
+    <li>🚀 Trabalho com o Front, mas estou focado nos estudos do Back-end, em busca do tão sonhado Fullstack.</li>
+    <li>⚡ Atualmente estudando: <b>Java</b> e <b>Node.js</b>.</li>
+    <li>📕 Pretendo estudar: <b>Golang</b></li>
 </ul>
 
 ##
