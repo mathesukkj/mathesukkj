@@ -43,8 +43,6 @@
   <a href="https://steamcommunity.com/id/mathesukkj/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
   <a href="https://open.spotify.com/user/obbrn3lv07a6jusj2i2y11cyp?si=948602b1396e4a5d" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
   
 
