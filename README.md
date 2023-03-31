@@ -26,7 +26,7 @@
     <li>💞 Sou apaixonado por Tecnologia, Música e Games.</li>
     <li>💻 Faço cursos majoritariamente na <a href="https://udemy.com/" target="_blank">Udemy</a>, sempre em busca de aprender mais.</li>
     <li>🚀 Trabalho com o Front, mas estou focado nos estudos do Back-end, rumo ao Fullstack.</li>
-    <li>⚡ Atualmente estudando: <b>Java</b> e <b>React</b>.</li>
+    <li>⚡ Atualmente estudando: <b>Java/Spring Boot</b> e <b>React</b>.</li>
     <li>📕 Pretendo estudar: <b>Golang</b></li>
 </ul>
 
