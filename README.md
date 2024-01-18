@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7F3ACE&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Matheus+Kemuel;I'm+from+Brasil,+MG;I+work+as+a+Frontend+Developer+Intern;I+am+studying+Backend+development;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7F3ACE&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Matheus+Kemuel;I'm+from+Brazil,+MG;I+work+as+a+Fullstack+Developer+Intern;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mathesukkj&show_icons=true&count_private=true&hide_border=true&title_color=7F3ACE&icon_color=7F3ACE&text_color=ffff&bg_color=0d1117" alt="Matheus Kemuel github stats" /> 
@@ -25,7 +25,7 @@
 <ul align="left">
     <li>💞 Sou apaixonado por Tecnologia, Música e Games.</li>
     <li>💻 Faço cursos majoritariamente na <a href="https://udemy.com/" target="_blank">Udemy</a>, sempre em busca de aprender mais.</li>
-    <li>🚀 Trabalho com o Front, em Next e Class-based React, e com o backend, em Nestjs e Zend.</li>
+    <li>🚀 Trabalho com o Frontend, com Next e Class-based React, e com o Backend, em Nestjs e Zend.</li>
     <li>⚡ Atualmente estudando: <b>Java/Spring Boot</b> e <b>Vue</b>.</li>
     <li>📕 Pretendo estudar: <b>Golang</b></li>
 </ul>
