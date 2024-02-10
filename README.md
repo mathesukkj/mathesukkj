@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mathesukkj&show_icons=true&count_private=true&hide_border=true&title_color=7F3ACE&icon_color=7F3ACE&text_color=ffff&bg_color=0d1117" alt="Matheus Kemuel github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathesukkj&layout=compact&hide_border=true&title_color=7F3ACE&text_color=ffff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathesukkj&layout=compact&hide_border=true&title_color=7F3ACE&text_color=ffff&bg_color=0d1117&size_weight=0.3&count_weight=0.7&hide=html,css,pug" />
 </div>
 
 <!--![Contribution](https://activity-graph.herokuapp.com/graph?username=mathesukkj&color=7F3ACE&line=ffff&point=7F3ACE&title_color=7F3ACE&area_color=7F3ACE&hide_border=true&area=true&bg_color=0d1117)-->
