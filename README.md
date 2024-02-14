@@ -26,8 +26,7 @@
     <li>💞 Sou apaixonado por Tecnologia, Música e Games.</li>
     <li>💻 Faço cursos majoritariamente na <a href="https://udemy.com/" target="_blank">Udemy</a>, sempre em busca de aprender mais.</li>
     <li>🚀 Trabalho com o Frontend, com Next e Class-based React, e com o Backend, em Nestjs e Zend.</li>
-    <li>⚡ Atualmente estudando: <b>Java/Spring Boot</b> e <b>Vue</b>.</li>
-    <li>📕 Pretendo estudar: <b>Golang</b></li>
+    <li>⚡ Atualmente estudando: <b>Golang</b>.</li>
 </ul>
 
 ##
