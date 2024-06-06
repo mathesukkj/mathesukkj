@@ -17,7 +17,7 @@
   <img align="center" alt="mathesu-HTML" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mathesu-CSS" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="mathesu-Python" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="mathesu-Csharp" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="mathesu-Golang" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 </div>
   
  ##
@@ -32,15 +32,9 @@
 ##
 
 <div align="center"> 
-  <a href="https://twitter.com/mathesukkkk" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-kemuel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://discordapp.com/users/273800772020338689" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kemuel.g7363@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://tracker.gg/valorant/profile/riot/scream%20do%20loona%23cdka1/overview" target="_blank"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank"></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" target="_blank"></a> 
-  <a href="https://steamcommunity.com/id/mathesukkj/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
   <a href="https://open.spotify.com/user/obbrn3lv07a6jusj2i2y11cyp?si=948602b1396e4a5d" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
- 
 </div>
   
 
