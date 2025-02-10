@@ -6,10 +6,8 @@
 
 <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
-**Computer Science Psychopath && Music concerts enjoyer**
+**CompSci && Music production enjoyer**
 - 📚 I’m currently learning ...
-  - *Low-Level*
-  - *Blockchain*
 - ✔ Feel free to reach out!
 - 📫 <a href="kemuel.g7363@gmail.com">kemuel.g7363@gmail.com</a>
 <br>
